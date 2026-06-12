@@ -64,8 +64,6 @@ The board is designed to support:
 
 <h3 align="center">Credits & Team</h3>
 
-<h3 align="center">Credits & Team</h3>
-
 <p align="center">Supported by the REXUS/BEXUS Program and our generous sponsors.</p>
 <p align="center">
     <a href="https://github.com/BLESS-BEXUS/Storage-Ethernet-System-PCB/graphs/contributors">
